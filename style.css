@@ -1,0 +1,39 @@
+html{
+    background: grey;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:  120px;
+    margin-top: 20px;
+    padding: 60px;
+    color: #242424;
+    border-top: 10px solid #242424;
+    background: lightskyblue;
+    
+}
+
+h1{
+    font-size: 3em;
+    margin: 0;
+}
+
+.soundboard{
+    display: flex;
+    list-style-type: none;
+}
+
+.aone{   
+    padding: 20px;
+    margin: 20px;
+}
+
+.atwo{    
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.athree{
+    padding: 20px;
+    margin: 20px;
+}
